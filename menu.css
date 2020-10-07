@@ -1,0 +1,19 @@
+body{
+    background-color: #e3aaae;
+    color: #000;
+}
+
+.text{
+    font-size: 24px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.cont{
+    border: 2px solid #fff;
+    width: 275px;
+    margin-left: 8%;
+    margin-top: 20%;
+    font-size: 20px;
+}
